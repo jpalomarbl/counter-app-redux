@@ -1,0 +1,3 @@
+[submodule "Implementation without Redux"]
+	path = Implementation without Redux
+	url = https://github.com/jpalomarbl/counter-app-without-redux
